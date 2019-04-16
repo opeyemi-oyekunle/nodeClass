@@ -1,0 +1,15 @@
+{
+  "name": "node-tutorial",
+  "version": "0.0.1",
+  "description": "This is a node tutorial for begginners",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oyekunle Opeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1",
+    "uppercase": "^0.1.1"
+  }
+}
